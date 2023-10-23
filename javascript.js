@@ -3,7 +3,7 @@ function ck(){
     document.getElementById("Totaal").style.visibility = "visible";
     document.getElementById("result").style.visibility = "visible";
 
-    const budget = 10;
+    const budget = 100;
     const product = 60;
     var tot;
 
